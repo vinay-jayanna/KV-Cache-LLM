@@ -10,7 +10,7 @@ KV Caching enables fast, efficient, and scalable inference by **storing and reus
 
 For a complete walkthrough of KV Caching, including how it works, why it matters, and how it's applied in production-grade AI systems, read the accompanying article on LinkedIn:
 
-👉 [KV Caching in Transformers: Optimizing Large Language Model Inference](https://www.linkedin.com/pulse/kv-caching-transformers-optimizing-llm-inference-vinay-jayanna)
+👉 [KV Caching in Transformers: Optimizing Large Language Model Inference](https://www.linkedin.com/pulse/kv-cache-hidden-optimization-behind-real-time-ai-vinay-jayanna-cvfec)
 
 ---
 
